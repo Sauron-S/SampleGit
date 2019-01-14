@@ -1,2 +1,3 @@
 Working on git setup
 1st step successfully done
+checkout using git ssh successfully
